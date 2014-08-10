@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ANDDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="tips_interval">Set the interval value(second):</string>
+    <string name="tips_relative_value">Set the decibel relative(dB):</string>
+    <string name="tips_max_value">Set the MAX value of decibel(dB):</string>
+    <string name="title_activity_welcome">ANDDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="_copy_right_info">®Copy Right\nOther things you need</string>
+    <string name="foreground_service_started">No use, just need the id value of this string in R to identify the notify</string>
+
+</resources>
